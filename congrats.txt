@@ -1,2 +1,4 @@
 Little known fact I use BSD on the weekends.
+
 https://github.com/torvalds/linux/pull/17#issuecomment-5654674
+https://github.com/amoffat/masquerade/commit/9b0562595cc479ac8696110cb0a2d33f8f2b7d29
